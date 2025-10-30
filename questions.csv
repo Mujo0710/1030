@@ -1,0 +1,6 @@
+question,optionA,optionB,optionC,optionD,answer
+下列哪一個是 JavaScript 的資料型別？,String,Integer,Character,Float,A
+哪個標籤用來在 HTML 中放置段落?,<div>,<span>,<p>,<section>,C
+CSS 用於?,資料處理,版面與樣式,伺服器溝通,資料庫管理,B
+p5.js 常在什麼語言執行?,Python,Java,C++,JavaScript,D
+哪個是等號比較（值相等）在 JavaScript 中?,==,=,===,:=,A
